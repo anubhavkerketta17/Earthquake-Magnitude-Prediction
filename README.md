@@ -1,4 +1,3 @@
-Here's a well-structured README for your GitHub repository on **Earthquake Magnitude Prediction Using Machine Learning**:
 
 # Earthquake Magnitude Prediction Using Machine Learning
 
@@ -54,5 +53,3 @@ Random Forest performed the best in capturing patterns in the data.
 - Using deep learning models like LSTMs for time-series forecasting
 - Incorporating real-time data for continuous learning
 
-
-Let me know if you need any modifications! 🚀
